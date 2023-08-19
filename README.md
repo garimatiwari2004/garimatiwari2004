@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garimatiwari2004
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on some projects to learn better.
 
 <!---
