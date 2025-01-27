@@ -16,5 +16,5 @@ This is Garima.
 
 ☑️ Databases: MongoDB, MySQL
 
-![](https://leetcard.jacoblin.cool/garimatiwari2004?ext=heatmap)
+![](https://leetcard.jacoblin.cool/garimatiwari1803?ext=heatmap)
 
