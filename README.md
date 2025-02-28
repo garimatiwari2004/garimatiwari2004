@@ -36,3 +36,5 @@ This is Garima.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=garimatiwari2004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+
