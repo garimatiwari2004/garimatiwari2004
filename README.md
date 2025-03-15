@@ -16,6 +16,7 @@ This is Garima.
 
 ☑️ Databases: MongoDB, MySQL
 
+https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgarimatiwari1803&logo=leetcode&logoColor=yellow
 [![LeetCode user garimatiwari1803](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgarimatiwari1803&logo=leetcode&logoColor=yellow)](https://leetcode.com/garimatiwari1803/)
 
 ![](https://leetcard.jacoblin.cool/garimatiwari1803?ext=heatmap)
