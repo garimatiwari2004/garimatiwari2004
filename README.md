@@ -14,7 +14,7 @@ This is Garima.
 
 ☑️ Web Development: HTML, CSS, JavaScript, React
 
-☑️ Databases: MongoDB, MySQL
+☑️ Databases: MongoDB, MySQL, Django/Flask
 
 
 <h2>Leetcode Info</h2>
