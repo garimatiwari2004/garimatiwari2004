@@ -17,6 +17,17 @@ This is Garima.
 ☑️ Databases: MongoDB, MySQL
 
 
+<h2>Leetcode Info</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+<!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a> -->
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+
+
 [![LeetCode user garimatiwari1803](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgarimatiwari1803&logo=leetcode&logoColor=yellow)](https://leetcode.com/garimatiwari1803/)
 
 ![](https://leetcard.jacoblin.cool/garimatiwari1803?ext=heatmap)
